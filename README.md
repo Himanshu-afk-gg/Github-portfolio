@@ -10,18 +10,24 @@
 
 - 🎓 **Currently Pursuing PGDM at Xavier Institute of Social Service** (Third Trimester, TGPA: 8.00)
 - 🎓 **Bachelor of Vocational (Advertising and Marketing) - St. Xavier’s College Ranchi** (CGPA: 8.17)
-- 🏫 **Church School Beldih Jamshedpur (ISC - 70%)**
-- 💼 **Experienced in Digital Marketing, SEO, and Retail Operations**
+- 🏣 **Church School Beldih Jamshedpur (ISC - 70%)**
+- 🎼 **Experienced in Digital Marketing, SEO, and Retail Operations**
 - 📊 **Passionate about SQL, Power BI, and Data Analytics**
 - 🎮 **Esports Enthusiast & Event Organizer**
 - 🏆 **5⭐ SQL HackerRank & Active Problem Solver on LeetCode**
 
 ---
 
-## 💼 Internship Experience
+## 🌟 HackerRank Profile
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/himanshu_jais69)
+
+---
+
+## 🎈 Internship Experience
 
 ### Shoppers Stop (Jan 2023 - Mar 2023) - *Retail Operations Associate*
-- 🛍️ Elevated customer interaction, fostering brand awareness and effectively selling garments across three outlets.
+- 🛙 Elevated customer interaction, fostering brand awareness and effectively selling garments across three outlets.
 - 🏆 Led training sessions for two staff members, improving product knowledge and customer service.
 - 🎨 Engaged in visual merchandising, enhancing product visibility and driving a **135% increase in sales**.
 
@@ -40,7 +46,7 @@
 
 ### ITC Aashirvaad Svasti Milk – Live Project (Marketing & Research Intern)
 - 📈 Conducted market research across **46+ retail outlets** to analyze vendor perception and supply chain challenges.
-- 🏪 Expanded ITC’s vendor and customer base by identifying new retailers and leading promotional activities.
+- 🏢 Expanded ITC’s vendor and customer base by identifying new retailers and leading promotional activities.
 
 ---
 
@@ -67,7 +73,7 @@
 
 ---
 
-## 📜 Extra-Curricular Activities
+## 🌜 Extra-Curricular Activities
 
 ### HackerRank, LeetCode
 - 🏆 Earned **5⭐ in SQL** on HackerRank and demonstrated proficiency in **LeetCode problem-solving**.
@@ -77,11 +83,11 @@
 
 ### Esports Event Organizing
 - 🏆 Organized **CS 1.6 and Valorant** esports events at the **inter-school level**.
-- 🎖️ **Won 3 medals (Gold, Silver, Bronze) in esports competitions (Counter-Strike, FIFA).**
+- 🏅 **Won 3 medals (Gold, Silver, Bronze) in esports competitions (Counter-Strike, FIFA).**
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-afk-gg&show_icons=true&theme=tokyonight" width="48%" />
@@ -106,4 +112,4 @@
 
 ---
 
-⭐️ **Inspired by your passion for marketing, analytics, and esports!** 🚀
+🌟 **Inspired by your passion for marketing, analytics, and esports!** 🚀
