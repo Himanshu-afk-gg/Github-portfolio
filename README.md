@@ -11,7 +11,7 @@
 - 🎓 **Currently Pursuing PGDM at Xavier Institute of Social Service** (Third Trimester, TGPA: 8.00)
 - 🎓 **Bachelor of Vocational (Advertising and Marketing) - St. Xavier’s College Ranchi** (CGPA: 8.17)
 - 🏣 **Church School Beldih Jamshedpur (ISC - 70%)**
-- 🎼 **Experienced in Digital Marketing, SEO, and Retail Operations**
+- 🎮 **Experienced in Digital Marketing, SEO, and Retail Operations**
 - 📊 **Passionate about SQL, Power BI, and Data Analytics**
 - 🎮 **Esports Enthusiast & Event Organizer**
 - 🏆 **5⭐ SQL HackerRank & Active Problem Solver on LeetCode**
@@ -27,7 +27,7 @@
 ## 🎈 Internship Experience
 
 ### Shoppers Stop (Jan 2023 - Mar 2023) - *Retail Operations Associate*
-- 🛙 Elevated customer interaction, fostering brand awareness and effectively selling garments across three outlets.
+- 🛂 Elevated customer interaction, fostering brand awareness and effectively selling garments across three outlets.
 - 🏆 Led training sessions for two staff members, improving product knowledge and customer service.
 - 🎨 Engaged in visual merchandising, enhancing product visibility and driving a **135% increase in sales**.
 
@@ -47,6 +47,14 @@
 ### ITC Aashirvaad Svasti Milk – Live Project (Marketing & Research Intern)
 - 📈 Conducted market research across **46+ retail outlets** to analyze vendor perception and supply chain challenges.
 - 🏢 Expanded ITC’s vendor and customer base by identifying new retailers and leading promotional activities.
+
+### Digital Marketing Website Project
+- 🌐 Developed a website for **IMPERIUM CONTENT CONSULTANCY ADS**, showcasing **advertising & consultancy services**.
+- 💾 [Visit Website](https://1049himanshujaiswa.wixsite.com/iccads)
+
+### Custom Ad for Soft Skill Development Project
+- 🎬 Created a unique ad campaign to promote soft skills and professional growth.
+- 👉 [View Ad on LinkedIn](https://www.linkedin.com/posts/himanshu-jaiswal-a9a30222a_donothing-donothing-creativity-activity-7299832501584162816-pVoX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlal5YBb6_NJeKZoVxXPc2R8XeWutAWEHY)
 
 ---
 
@@ -101,12 +109,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-jaiswal-a9a30222a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hjaiswal003mm2024-26@xiss.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Himanshu-afk-gg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
